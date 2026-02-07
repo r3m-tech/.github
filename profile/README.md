@@ -1,8 +1,6 @@
-### Hi! :metal:
+## Welcome to the R3M Tech! :metal:
 
-Welcome to R3M Tech's organization on GitHub.
-
-Would you like to connect with someone here?
+Would you like to meet someone here?
 
 [![Site](https://img.shields.io/badge/r3m.tech-03C772?style=for-the-badge)](https://r3m.tech)
 
