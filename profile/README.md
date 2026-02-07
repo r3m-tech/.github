@@ -1,4 +1,4 @@
-## Welcome to the R3M Tech! :metal:
+## Welcome to R3M Tech! :metal:
 
 Would you like to meet someone here?
 
